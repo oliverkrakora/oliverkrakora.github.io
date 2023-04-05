@@ -1,0 +1,15 @@
+.content {
+	max-width: 500px;
+	margin: auto;
+}
+
+.img {
+	max-width: 500px;
+	width: 100%;
+}
+
+.gallery {
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
